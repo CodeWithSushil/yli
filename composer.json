@@ -17,7 +17,17 @@
     "require": {
         "php": "^8.2",
         "symfony/mailer": "^7.3",
-        "egulias/email-validator": "^4.0"
+        "egulias/email-validator": "^4.0",
+        "symfony/dotenv": "^7.3",
+        "doctrine/orm": "^3.5",
+        "doctrine/migrations": "^3.9",
+        "doctrine/dbal": "^4.2",
+        "symfony/cache": "^7.3",
+        "twig/twig": "^3.21",
+        "guzzlehttp/guzzle": "^7.9",
+        "amphp/amp": "^3.1",
+        "ext-mysqlnd": "*",
+        "ext-pdo_mysql": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "^12.2",
