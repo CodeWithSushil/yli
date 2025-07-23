@@ -21,7 +21,7 @@
         "symfony/dotenv": "^7.3",
         "doctrine/orm": "^3.5",
         "doctrine/migrations": "^3.9",
-        "doctrine/dbal": "^4.2",
+        "doctrine/dbal": "^4.3",
         "symfony/cache": "^7.3",
         "twig/twig": "^3.21",
         "guzzlehttp/guzzle": "^7.9",
