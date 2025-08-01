@@ -6,7 +6,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Yli\\Framework\\": "src/framework/"
+            "Yli\\Framework\\": "app/framework/"
         }
     },
     "autoload-dev": {
