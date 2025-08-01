@@ -35,8 +35,8 @@
         "symfony/var-dumper": "^7.3",
         "phpunit/php-code-coverage": "^12.3",
         "monolog/monolog": "^3.9",
+        "rector/rector": "^2.1",
         "laravel/pint": "^1.23",
-        "rector/rector": "*",
         "fakerphp/faker": "^1.24",
         "mockery/mockery": "^1.6",
         "myclabs/deep-copy": "^1.13"
